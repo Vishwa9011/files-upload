@@ -1,1 +1,6 @@
-{}
+{
+    "name": "Test Token",
+    "symbol": "TT",
+    "description": "Test Token description",
+    "image": "https://res.cloudinary.com/dpzbtnmfl/image/upload/v1740813177/fiwxoqcesi4tivynndqk.jpg"
+}
